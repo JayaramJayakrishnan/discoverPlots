@@ -1,70 +1,28 @@
-# Getting Started with Create React App
+# Discover Plots
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+In this Assignmment, we build a static Frontend using React.js.
 
-## Available Scripts
+<br/>
 
-In the project directory, you can run:
+## Set Up Instructions
+  - Clone the git repository to your local machine by running:  *git clone "repository url"*
+  - From your local repository
+    - Download dependencies by running:   *npm install*
+    - Start up the app using:   *npm start*
 
-### `npm start`
+<br/>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Colors 
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<div style="background-color: #ffffff; width: 150px; padding: 10px; color: black">Hex: #ffffff</div>
+<div style="background-color: #FFEEE9; width: 150px; padding: 10px; color: black">Hex: #FFEEE9</div>
+<div style="background-color: #EFEFEF; width: 150px; padding: 10px; color: black">Hex: #EFEFEF</div>
+<div style="background-color: #FE6D3F; width: 150px; padding: 10px; color: black">Hex: #FE6D3F</div>
+<div style="background-color: #BABABA; width: 150px; padding: 10px; color: black">Hex: #BABABA</div>
+<div style="background-color: #858585; width: 150px; padding: 10px; color: black">Hex: #858585</div>
+<div style="background-color: #909090; width: 150px; padding: 10px; color: black">Hex: #909090</div>
+<div style="background-color: #585656; width: 150px; padding: 10px; color: black">Hex: #585656</div>
+<div style="background-color: #414141; width: 150px; padding: 10px; color: white">Hex: #414141</div>
+<div style="background-color: #1E1E1E; width: 150px; padding: 10px; color: white">Hex: #1E1E1E</div>
+<div style="background-color: #000000; width: 150px; padding: 10px; color: white">Hex: #000000</div>
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
