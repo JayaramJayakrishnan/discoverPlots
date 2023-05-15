@@ -1,0 +1,47 @@
+.project-details-card {
+    width: calc((100% - 60px)/4);    
+}
+
+.project-image {
+    width: 100%;
+    height: 328px;
+}
+
+.project-description {
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #777979;
+    margin: 27px 0px 20px 0px;
+}
+
+.project-details-flex-container {
+    display: flex;
+    align-items: center;
+}
+
+.project-price {
+    font-family: 'Inter';
+    font-weight: 700;
+    font-size: 18.222px;
+    line-height: 24px;
+    color: #000000;
+    margin: 0px;
+}
+
+.feature-projects-section-line {
+    height: 14px;
+    width: 1px;
+    background-color: #818181;
+    margin: 0px 12px;
+}
+
+.project-area {
+    font-family: 'Inter';
+    font-weight: 500;
+    font-size: 18.222px;
+    line-height: 24px;
+    color: #818181;
+    margin: 0px;
+}

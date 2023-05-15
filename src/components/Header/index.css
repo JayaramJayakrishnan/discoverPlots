@@ -1,0 +1,62 @@
+.nav-container {
+    height: 111px;
+    background-color: #FAFAFA;
+    display: flex;
+    justify-content: center;
+    border-bottom: 1px solid rgba(139, 139, 139, 0.55);
+}
+
+.nav-content {
+    width: 90%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo {
+    width: 119px;
+    font-family: "Inter";
+    font-weight: 900;
+    font-size: 24px;
+    line-height: 29px;
+    color: #000000;
+}
+
+.nav-items-container {
+    list-style-type: none;
+    display: flex;
+    padding: 0px;
+}
+
+.nav-list-item {
+    font-family: 'Plus Jakarta Sans';
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 21px;
+    color: #0D0D0D;
+    display: flex;
+    align-items: center;
+    margin-right: 34px;
+}
+
+.line {
+    width: 24px;
+    height: 0px;
+    border: 1px solid #858585;
+    transform: rotate(90deg);
+    margin: 0px;
+}
+
+.nav-button {
+    width: 163px;
+    height: 51px;
+    background-color: #FE6D3F;
+    font-family: 'Plus Jakarta Sans';
+    font-size: 16px;
+    line-height: 21px;
+    color: #ffffff;
+    border-style: none;
+    border-radius: 8px;
+    cursor: pointer;
+}
+

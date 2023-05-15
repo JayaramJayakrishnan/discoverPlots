@@ -1,0 +1,83 @@
+.contact-us-section {
+    height: 360px;
+    display: flex;
+    justify-content: center;
+    margin: 100px 0px 137px 0px;
+}
+
+.contact-us-section-content {
+    position: relative;
+    max-width: 90%;
+    background: #FFEEE9;
+    border-radius: 22px;
+    flex-grow: 1;
+    display: flex;
+    overflow: hidden;
+}
+
+.circles-bg-container {
+    flex-grow: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.outer-circle {
+    width: 1023px;
+    height: 1023px;
+    border-radius: 50%;
+    border: 2px solid #AA3FFF24;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.inner-circle {
+    width: 528px;
+    height: 528px;
+    border-radius: 50%;
+    border: 2px solid #AA3FFF24;
+}
+
+.contact-us-section-heading {
+    position: absolute;
+    top: 73px;
+    left: calc(50% - 381px);
+    width: 762px;
+    font-family: 'Inter';
+    font-weight: 500;
+    font-size: 38px;
+    color: #000000;
+    text-align: center;
+}
+
+.schedule-call-button {
+    position: absolute;
+    bottom: 71px;
+    left: calc(50% - 109px);
+    width: 218px;
+    height: 68px;
+    background: #FE6D3F;
+    font-family: 'Inter';
+    font-weight: 600;
+    font-size: 21px;
+    color: #EFEFEF;
+    border-style: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.contact-us-section-pattern {
+    position: absolute;
+    top: 95px;
+    left: 148px;
+    width: 46px;
+    height: 46px;
+}
+
+.contact-us-ellipse-position {
+    position: absolute;
+    bottom: 80px;
+    right: 80px;
+}
+
